@@ -9,3 +9,5 @@ The game has a reset icon that allows user to start the game all over again.
 Technologies Used:
 
 HTML, CSS and JavaScript
+
+The website is hosted here: <a href="https://tamaratet.github.io/rock-paper-scissors/" target=_blank>Here</a>
